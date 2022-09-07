@@ -1,3 +1,0 @@
-This is a text document.
-Changed a little for other commit.
-Ignore the file to commit.
